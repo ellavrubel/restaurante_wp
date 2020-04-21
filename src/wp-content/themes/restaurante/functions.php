@@ -1,6 +1,27 @@
 <?php
 
-  add_action( 'wp_enqueue_scripts', 'restaurante_scripts' );
+
+// регистрирует места для меню сайта
+
+register_nav_menus(
+    array(
+        'header-menu'    => __( 'rest-menu-header', 'restaurante' ),
+        'footer-menu' => __( 'rest-menu-footer', 'restaurante' ),
+    )
+);
+
+//  добавляет класс к ссылке
+
+add_filter( 'nav_menu_link_attributes', 'filter_nav_menu_link_attributes', 10, 4 );
+function filter_nav_menu_link_attributes( $atts, $item, $args, $depth ) {
+    if ( $args->theme_location === 'header-menu' ) {
+        $atts['class'] = 'header__list-item';
+    }
+    return $atts;
+}
+
+
+add_action( 'wp_enqueue_scripts', 'restaurante_scripts' );
 
   function restaurante_scripts(){
 

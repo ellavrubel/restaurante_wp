@@ -49,8 +49,9 @@ Welcome to <span>restorantBD.com</span>
         <div class="container">
         <div class="row row__menu">
             <div class="col-1">
-                <img class="header__logo img-fluid" src="<?php bloginfo( 'template_url' ); ?>/assets/img/Logot.png" alt="">
-            </div>
+                <img class="header__logo img-fluid" src="<?php bloginfo( 'template_url' ); ?>/assets/img/Logot.png" alt="">                  </div>
+
+
             <div class="offset-2 col-9 header__nav d-flex align-self-center">
                 <div class="header__list">
                     <a class="header__list-item" href="index.html">HOME</a>
@@ -65,6 +66,17 @@ Welcome to <span>restorantBD.com</span>
                     <a class="header__list-item header__list-item_btn" href="#modalReservation">RESERVATION</a>
                 </div>
             </div>
+
+<!--                       --><?php //wp_nav_menu( [
+//                                               'theme_location'  => 'header-menu',
+//                                                'menu_id'        => 'header-menu',
+//                                                'menu_class'     =>  'header__list header__menu row__menu offset-2 col-9 header__nav d-flex align-self-center',
+//                                                'container_class' =>  'header__menu row__menu offset-2 col-9 header__nav d-flex align-self-center'
+//                                           ] ); ?>
+
+
+
+
         </div>
         </div>
     </div>
