@@ -824,6 +824,210 @@
     </div>
 </section>
 
+<section id="blog" class="blog">
+    <div class="container">
+        <p class="subtitle blog__subtitle">
+            Latest Blog
+        </p>
+        <div class="futureItem__arrow blog__arrow">
+            <img src="img/blue_arrow.png" alt="">
+        </div>
+
+        <div class="slider4-wrap">
+            <div class="owl-carousel owl-theme slider4">
+
+<!--                --><?php //if ( have_posts() ) : while ( have_posts() ) : the_post();  ?>
+<!---->
+<!--                <div class="item blog__first">-->
+<!--                    <div>-->
+<!--                        <a href="#">--><?php //echo get_the_date(); ?>
+<!--                        </a>-->
+<!--                    </div>-->
+<!---->
+<!--                    <div class="item d-flex flex-column ">-->
+<!--                        <a href="--><?php //the_permalink(); ?><!--">-->
+<!--                            <img src="img/blog/phone.jpg" alt="" class="phone img-fluid">-->
+<!---->
+<!--                            --><?php //echo get_the_post_thumbnail( get_the_ID(), 'full' ); ?>
+<!---->
+<!--                        </a>-->
+<!--                        <div class="blog__text-wrap">-->
+<!--                            <p class="blog__title">-->
+<!--                                <a href="--><?php //the_permalink(); ?><!--">-->
+<!--                                    --><?php //the_title(); ?>
+<!--                                </a>-->
+<!--                            </p>-->
+<!--                            <p class="blog__text">-->
+<!---->
+<!--                                --><?php //the_excerpt(); ?>
+<!---->
+<!---->
+<!--                            </p>-->
+<!--                            <p class="blog__stat">-->
+<!--                                <i class="fa fa-user"></i>-->
+<!--                                <a href="#">-->
+<!--                                    --><?php // echo get_the_author(); ?>
+<!--                                </a>
+                              <i class="fa fa-eye seen"></i>-->
+<!--                                                    240-->
+<!--                                <i class="fa fa-comments"></i>-->
+<!--                                    --><?php //comments_number(); ?>
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!---->
+<!---->
+<!--                --><?php
+//                    endwhile;
+//
+//                    else :
+//                    get_template_part( 'template-parts/content/content', 'none' );
+//
+//                endif;
+//                ?>
+
+                <div class="item blog__first">
+
+                    <?php
+
+                    $posts = get_field('blog__first');
+
+                    if( $posts ): ?>
+                        <ul>
+                            <?php foreach( $posts as $post): // variable must be called $post (IMPORTANT) ?>
+                                <?php setup_postdata($post); ?>
+                                <li>
+                                    <?php the_field('blog__title'); ?>
+                                </li>
+                            <?php endforeach; ?>
+                        </ul>
+                        <?php wp_reset_postdata(); // IMPORTANT - reset the $post object so the rest of the page works correctly ?>
+                    <?php endif; ?>
+
+
+
+<!--                    <img src="img/blog/18th_March.jpg" alt="18th of March" class="blog__date">-->
+<!--                    <div class="item d-flex flex-column ">-->
+<!--                        <img src="img/blog/phone.jpg" alt="smartphone" class="phone">-->
+<!--                        <div class="blog__text-wrap">-->
+<!--                            <p class="blog__title">Restaurant business trends</p>-->
+<!--                            <p class="blog__text">With the growth-focused restaurateur at the heart of all their posts, Restaurant Business Online focuses on providing restaurateurs with benchmarks, updates on legislative matters, and economic news.</p>-->
+<!--                            <p class="blog__stat">-->
+<!--                                <i class="fa fa-user"></i>-->
+<!--                                Luis Traver-->
+<!--                                <i class="fa fa-eye seen"></i>-->
+<!--                                240-->
+<!--                                <i class="fa fa-comments"></i>-->
+<!--                                5-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+                </div>
+<!---->
+                <div class="item blog__second">
+
+                    <?php
+
+                    $posts = get_field('blog__second');
+
+                    if( $posts ): ?>
+                        <ul>
+                            <?php foreach( $posts as $post):  ?>
+                                <?php setup_postdata($post); ?>
+                                <li>
+                                    <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
+                                    <span>Custom field from $post: <?php the_field('author'); ?></span>
+                                </li>
+                            <?php endforeach; ?>
+                        </ul>
+                        <?php wp_reset_postdata(); ?>
+                    <?php endif; ?>
+
+
+<!--                    <img src="img/blog/22th_March.jpg" alt="22th of March" class="blog__date">-->
+<!--                    <div class="item d-flex flex-column ">-->
+<!--                        <img src="img/blog/table.jpg" alt="restaurante" class="rest">-->
+<!--                        <div class="blog__text-wrap">-->
+<!--                            <p class="blog__title blog__title-second">Hottest New York food news</p>-->
+<!--                            <p class="blog__text"> As far as North America restaurant trends go, New York sets the precedent. That’s why it’s essential restaurant owners keep a close eye on the goings-on of the food metropolis that sets the benchmark.</p>-->
+<!--                            <p class="blog__stat">-->
+<!--                                <i class="fa fa-user"></i>-->
+<!--                                Andrea Fas-->
+<!--                                <i class="fa fa-eye seen"></i>-->
+<!--                                123-->
+<!--                                <i class="fa fa-comments"></i>-->
+<!--                                10-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+                </div>
+<!---->
+                <div class="item blog__third">
+
+                    <?php
+
+                    $posts = get_field('blog__third');
+
+                    if( $posts ): ?>
+                        <ul>
+                            <?php foreach( $posts as $post):  ?>
+                                <?php setup_postdata($post); ?>
+                                <li>
+                                    <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
+                                    <span>Custom field from $post: <?php the_field('author'); ?></span>
+                                </li>
+                            <?php endforeach; ?>
+                        </ul>
+                        <?php wp_reset_postdata(); ?>
+                    <?php endif; ?>
+
+
+<!--                    <img src="img/blog/23.jpg" alt="23th of March" class="blog__date">-->
+<!--                    <div class="item d-flex flex-column ">-->
+<!--                        <img src="img/blog/woman.jpg" alt="woman" class="woman">-->
+<!--                        <div class="blog__text-wrap">-->
+<!--                            <p class="blog__title">Negotiating a Restaurant Lease</p>-->
+<!--                            <p class="blog__text third">Leasing property is a significant way to save money when you’re getting your restaurant off the ground. From property taxes to mortgage payments, the fees associated with buying a space .</p>-->
+<!--                            <p class="blog__stat">-->
+<!--                                <i class="fa fa-user"></i>-->
+<!--                                Frederic Hum-->
+<!--                                <i class="fa fa-eye seen"></i>-->
+<!--                                453-->
+<!--                                <i class="fa fa-comments"></i>-->
+<!--                                56-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+                </div>
+<!---->
+<!--                <div class="item blog__first">-->
+<!--                    <img src="img/blog/18th_March.jpg" alt="18th of March" class="blog__date">-->
+<!--                    <div class="item d-flex flex-column ">-->
+<!--                        <img src="img/blog/phone.jpg" alt="smartphone" class="phone img-fluid">-->
+<!--                        <div class="blog__text-wrap">-->
+<!--                            <p class="blog__title">Restaurant business trends</p>-->
+<!--                            <p class="blog__text">With the growth-focused restaurateur at the heart of all their posts, Restaurant Business Online focuses on providing restaurateurs with benchmarks, updates on legislative matters, and economic news.</p>-->
+<!--                            <p class="blog__stat">-->
+<!--                                <i class="fa fa-user"></i>-->
+<!--                                Luis Traver-->
+<!--                                <i class="fa fa-eye seen"></i>-->
+<!--                                240-->
+<!--                                <i class="fa fa-comments"></i>-->
+<!--                                5-->
+<!--                            </p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+
+
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <section class="letter">
     <div class="container-fluid letter__photo" style="background-image: url(<?php the_field('letter__photo'); ?>)">
         <div class="container">
