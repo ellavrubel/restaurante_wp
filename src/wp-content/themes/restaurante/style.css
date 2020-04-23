@@ -17,6 +17,9 @@ body{
 img, ul li{
     display: block;
 }
+ul{
+    padding: 0;
+}
 .title{
     font-family: Sacramento, sans-serif;
     font-size: 2rem;
@@ -937,7 +940,7 @@ p.blog__stat{
     padding-left: 10%;
 }
 .blog__stat i.seen{
-    padding-left: 7rem;
+    padding-left: 4rem;
 }
 .blog__second{
     margin-bottom: 1rem;

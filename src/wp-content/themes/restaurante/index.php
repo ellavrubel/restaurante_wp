@@ -294,44 +294,44 @@
         <!--Breakfast-->
         <div class="mainDish__photo-wrap d-flex flex-wrap flex-column flex-md-row justify-content-lg-between tabs__content">
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/10.png" alt="Burger">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/chickenBurg.png" alt="Burger">
+                <img class="img-fluid mainDish__picture" src="" alt="Burger">
+                <img class="img-fluid mainDish__picture2" src="" alt="Burger">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/2.png" alt="Chocolate">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/chocolate.png" alt="Chocolate">
+                <img class="img-fluid mainDish__picture" src="" alt="Chocolate">
+                <img class="img-fluid mainDish__picture2" src="" alt="Chocolate">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/4.png" alt="Crispy">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/Crispy.png" alt="Crispy">
+                <img class="img-fluid mainDish__picture" src="" alt="Crispy">
+                <img class="img-fluid mainDish__picture2" src="" alt="Crispy">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/3.png" alt="Mix Bol">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/chicken.png" alt="Mix Bol">
+                <img class="img-fluid mainDish__picture" src="" alt="Mix Bol">
+                <img class="img-fluid mainDish__picture2" src="" alt="Mix Bol">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/6.png" alt="Tutkey">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/california.png" alt="California">
+                <img class="img-fluid mainDish__picture" src="" alt="Tutkey">
+                <img class="img-fluid mainDish__picture2" src="" alt="California">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/7.png" alt="House BBQ">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/housebbq.png" alt="House BBQ">
+                <img class="img-fluid mainDish__picture" src="" alt="House BBQ">
+                <img class="img-fluid mainDish__picture2" src="" alt="House BBQ">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/8.png" alt="Wings">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/bolonese.png" alt="Wings">
+                <img class="img-fluid mainDish__picture" src="" alt="Wings">
+                <img class="img-fluid mainDish__picture2" src="" alt="Wings">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/5.png" alt="Santa Fe">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/santafe.png" alt="Santa Fe">
+                <img class="img-fluid mainDish__picture" src="" alt="Santa Fe">
+                <img class="img-fluid mainDish__picture2" src="" alt="Santa Fe">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/9.png" alt="Tripple Diple">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/tripple.png" alt="Tripples">
+                <img class="img-fluid mainDish__picture" src="" alt="Tripple Diple">
+                <img class="img-fluid mainDish__picture2" src="" alt="Tripples">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/1.png" alt="Pepper Pals">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/PepperPals.png" alt="Pepper Pals">
+                <img class="img-fluid mainDish__picture" src="" alt="Pepper Pals">
+                <img class="img-fluid mainDish__picture2" src="" alt="Pepper Pals">
             </div>
         </div>
         <!------------------------------------->
@@ -339,44 +339,44 @@
         <!--Lunch-->
         <div class="mainDish__photo-wrap d-flex flex-wrap flex-column flex-md-row justify-content-lg-between tabs__content ">
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/2.png" alt="Chocolate">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/chocolate.png" alt="Chocolate">
+                <img class="img-fluid mainDish__picture" src="" alt="Chocolate">
+                <img class="img-fluid mainDish__picture2" src="" alt="Chocolate">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/1.png" alt="Pepper Pals">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/PepperPals.png" alt="Pepper Pals">
+                <img class="img-fluid mainDish__picture" src="" alt="Pepper Pals">
+                <img class="img-fluid mainDish__picture2" src="" alt="Pepper Pals">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/4.png" alt="Crispy">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/Crispy.png" alt="Crispy">
+                <img class="img-fluid mainDish__picture" src="" alt="Crispy">
+                <img class="img-fluid mainDish__picture2" src="" alt="Crispy">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/3.png" alt="Mix Bol">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/chicken.png" alt="Mix Bol">
+                <img class="img-fluid mainDish__picture" src="" alt="Mix Bol">
+                <img class="img-fluid mainDish__picture2" src="" alt="Mix Bol">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/6.png" alt="Tutkey">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/california.png" alt="California">
+                <img class="img-fluid mainDish__picture" src="" alt="Tutkey">
+                <img class="img-fluid mainDish__picture2" src="" alt="California">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/5.png" alt="Santa Fe">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/santafe.png" alt="Santa Fe">
+                <img class="img-fluid mainDish__picture" src="" alt="Santa Fe">
+                <img class="img-fluid mainDish__picture2" src="" alt="Santa Fe">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/7.png" alt="House BBQ">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/housebbq.png" alt="House BBQ">
+                <img class="img-fluid mainDish__picture" src="" alt="House BBQ">
+                <img class="img-fluid mainDish__picture2" src="" alt="House BBQ">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/9.png" alt="Tripple Diple">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/tripple.png" alt="Tripples">
+                <img class="img-fluid mainDish__picture" src="" alt="Tripple Diple">
+                <img class="img-fluid mainDish__picture2" src="" alt="Tripples">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/8.png" alt="Wings">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/bolonese.png" alt="Wings">
+                <img class="img-fluid mainDish__picture" src="" alt="Wings">
+                <img class="img-fluid mainDish__picture2" src="" alt="Wings">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/10.png" alt="Burger">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/chickenBurg.png" alt="Burger">
+                <img class="img-fluid mainDish__picture" src="" alt="Burger">
+                <img class="img-fluid mainDish__picture2" src="" alt="Burger">
             </div>
         </div>
         <!------------------------------------->
@@ -384,44 +384,44 @@
         <!--Dinner-->
         <div class="mainDish__photo-wrap d-flex flex-wrap flex-column flex-md-row justify-content-lg-between tabs__content">
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/10.png" alt="Burger">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/chickenBurg.png" alt="Burger">
+                <img class="img-fluid mainDish__picture" src="" alt="Burger">
+                <img class="img-fluid mainDish__picture2" src="" alt="Burger">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/9.png" alt="Tripple Diple">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/tripple.png" alt="Tripples">
+                <img class="img-fluid mainDish__picture" src="" alt="Tripple Diple">
+                <img class="img-fluid mainDish__picture2" src="" alt="Tripples">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/3.png" alt="Mix Bol">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/chicken.png" alt="Mix Bol">
+                <img class="img-fluid mainDish__picture" src="" alt="Mix Bol">
+                <img class="img-fluid mainDish__picture2" src="" alt="Mix Bol">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/8.png" alt="Wings">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/bolonese.png" alt="Wings">
+                <img class="img-fluid mainDish__picture" src="" alt="Wings">
+                <img class="img-fluid mainDish__picture2" src="" alt="Wings">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/5.png" alt="Santa Fe">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/santafe.png" alt="Santa Fe">
+                <img class="img-fluid mainDish__picture" src="" alt="Santa Fe">
+                <img class="img-fluid mainDish__picture2" src="" alt="Santa Fe">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/6.png" alt="Tutkey">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/california.png" alt="California">
+                <img class="img-fluid mainDish__picture" src="" alt="Tutkey">
+                <img class="img-fluid mainDish__picture2" src="" alt="California">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/4.png" alt="Crispy">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/Crispy.png" alt="Crispy">
+                <img class="img-fluid mainDish__picture" src="" alt="Crispy">
+                <img class="img-fluid mainDish__picture2" src="" alt="Crispy">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/7.png" alt="House BBQ">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/housebbq.png" alt="House BBQ">
+                <img class="img-fluid mainDish__picture" src="" alt="House BBQ">
+                <img class="img-fluid mainDish__picture2" src="" alt="House BBQ">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/2.png" alt="Chocolate">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/chocolate.png" alt="Chocolate">
+                <img class="img-fluid mainDish__picture" src="" alt="Chocolate">
+                <img class="img-fluid mainDish__picture2" src="" alt="Chocolate">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/1.png" alt="Pepper Pals">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/PepperPals.png" alt="Pepper Pals">
+                <img class="img-fluid mainDish__picture" src="" alt="Pepper Pals">
+                <img class="img-fluid mainDish__picture2" src="" alt="Pepper Pals">
             </div>
 
         </div>
@@ -431,44 +431,44 @@
         <!--Dessert-->
         <div class="mainDish__photo-wrap d-flex flex-wrap flex-column flex-md-row justify-content-lg-between tabs__content">
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/6.png" alt="Tutkey">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/california.png" alt="California">
+                <img class="img-fluid mainDish__picture" src="" alt="Tutkey">
+                <img class="img-fluid mainDish__picture2" src="" alt="California">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/8.png" alt="Wings">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/bolonese.png" alt="Wings">
+                <img class="img-fluid mainDish__picture" src="" alt="Wings">
+                <img class="img-fluid mainDish__picture2" src="" alt="Wings">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/7.png" alt="House BBQ">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/housebbq.png" alt="House BBQ">
+                <img class="img-fluid mainDish__picture" src="" alt="House BBQ">
+                <img class="img-fluid mainDish__picture2" src="" alt="House BBQ">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/1.png" alt="Pepper Pals">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/PepperPals.png" alt="Pepper Pals">
+                <img class="img-fluid mainDish__picture" src="" alt="Pepper Pals">
+                <img class="img-fluid mainDish__picture2" src="" alt="Pepper Pals">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/2.png" alt="Chocolate">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/chocolate.png" alt="Chocolate">
+                <img class="img-fluid mainDish__picture" src="" alt="Chocolate">
+                <img class="img-fluid mainDish__picture2" src="" alt="Chocolate">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/9.png" alt="Tripple Diple">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/tripple.png" alt="Tripples">
+                <img class="img-fluid mainDish__picture" src="" alt="Tripple Diple">
+                <img class="img-fluid mainDish__picture2" src="" alt="Tripples">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/10.png" alt="Burger">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/chickenBurg.png" alt="Burger">
+                <img class="img-fluid mainDish__picture" src=" " alt="Burger">
+                <img class="img-fluid mainDish__picture2" src=" " alt="Burger">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/5.png" alt="Santa Fe">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/santafe.png" alt="Santa Fe">
+                <img class="img-fluid mainDish__picture" src=" " alt="Santa Fe">
+                <img class="img-fluid mainDish__picture2" src="" alt="Santa Fe">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/4.png" alt="Crispy">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/Crispy.png" alt="Crispy">
+                <img class="img-fluid mainDish__picture" src=" " alt="Crispy">
+                <img class="img-fluid mainDish__picture2" src=" " alt="Crispy">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/3.png" alt="Mix Bol">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/chicken.png" alt="Mix Bol">
+                <img class="img-fluid mainDish__picture" src=" " alt="Mix Bol">
+                <img class="img-fluid mainDish__picture2" src=" " alt="Mix Bol">
             </div>
         </div>
         <!------------------------------------->
@@ -476,44 +476,44 @@
         <!--Kids Menu-->
         <div class="mainDish__photo-wrap d-flex flex-wrap flex-column flex-md-row justify-content-lg-between tabs__content">
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/2.png" alt="Chocolate">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/chocolate.png" alt="Chocolate">
+                <img class="img-fluid mainDish__picture" src="" alt="Chocolate">
+                <img class="img-fluid mainDish__picture2" src="" alt="Chocolate">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/1.png" alt="Pepper Pals">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/PepperPals.png" alt="Pepper Pals">
+                <img class="img-fluid mainDish__picture" src="" alt="Pepper Pals">
+                <img class="img-fluid mainDish__picture2" src="" alt="Pepper Pals">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/4.png" alt="Crispy">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/Crispy.png" alt="Crispy">
+                <img class="img-fluid mainDish__picture" src="" alt="Crispy">
+                <img class="img-fluid mainDish__picture2" src="" alt="Crispy">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/3.png" alt="Mix Bol">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/chicken.png" alt="Mix Bol">
+                <img class="img-fluid mainDish__picture" src="" alt="Mix Bol">
+                <img class="img-fluid mainDish__picture2" src="" alt="Mix Bol">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/6.png" alt="Tutkey">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/california.png" alt="California">
+                <img class="img-fluid mainDish__picture" src="" alt="Tutkey">
+                <img class="img-fluid mainDish__picture2" src="" alt="California">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/5.png" alt="Santa Fe">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/santafe.png" alt="Santa Fe">
+                <img class="img-fluid mainDish__picture" src="" alt="Santa Fe">
+                <img class="img-fluid mainDish__picture2" src="" alt="Santa Fe">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/8.png" alt="Wings">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/bolonese.png" alt="Wings">
+                <img class="img-fluid mainDish__picture" src="" alt="Wings">
+                <img class="img-fluid mainDish__picture2" src="" alt="Wings">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/7.png" alt="House BBQ">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/housebbq.png" alt="House BBQ">
+                <img class="img-fluid mainDish__picture" src="" alt="House BBQ">
+                <img class="img-fluid mainDish__picture2" src="" alt="House BBQ">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/10.png" alt="Burger">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/chickenBurg.png" alt="Burger">
+                <img class="img-fluid mainDish__picture" src="" alt="Burger">
+                <img class="img-fluid mainDish__picture2" src="" alt="Burger">
             </div>
             <div class="menu__item d-flex">
-                <img class="img-fluid mainDish__picture" src="img/MainDish/9.png" alt="Tripple Diple">
-                <img class="img-fluid mainDish__picture2" src="img/MainDish/tripple.png" alt="Tripples">
+                <img class="img-fluid mainDish__picture" src="" alt="Tripple Diple">
+                <img class="img-fluid mainDish__picture2" src="" alt="Tripples">
             </div>
         </div>
         <!------------------------------------->
@@ -827,10 +827,10 @@
 <section id="blog" class="blog">
     <div class="container">
         <p class="subtitle blog__subtitle">
-            Latest Blog
+            Latest in Blog
         </p>
         <div class="futureItem__arrow blog__arrow">
-            <img src="img/blue_arrow.png" alt="">
+            <img src="<?php bloginfo( 'template_url' ); ?>/assets/img/blue_arrow.png" alt="">
         </div>
 
         <div class="slider4-wrap">
@@ -895,36 +895,37 @@
 
                     if( $posts ): ?>
                         <ul>
-                            <?php foreach( $posts as $post): // variable must be called $post (IMPORTANT) ?>
+                            <?php foreach( $posts as $post): ?>
                                 <?php setup_postdata($post); ?>
                                 <li>
-                                    <?php the_field('blog__title'); ?>
+
+                                    <div class="item d-flex flex-column ">
+                                        <a href="<?php the_permalink(); ?>"><img src="<?php the_field('phone'); ?>" alt="" class="phone"></a>
+                                        <div class="blog__text-wrap">
+                                            <a href="<?php the_permalink(); ?>"><p class="blog__title"><?php the_field('blog__title'); ?></p></a>
+                                            <p class="blog__text">
+                                                <?php the_field('blog__text'); ?>
+                                            </p>
+                                            <p class="blog__stat">
+                                                <i class="fa fa-user"></i>
+                                                <a href="<?php the_permalink(); ?>">
+                                                    <?php echo get_the_author(); ?></a>
+                                                <i class="fa fa-eye seen"></i>
+                                                   <?php echo get_post_meta ($post->ID,'views',true); ?>
+                                                <i class="fa fa-comments"></i>
+                                                    <?php comments_number(); ?>
+                                            </p>
+                                        </div>
+                                    </div>
                                 </li>
+
                             <?php endforeach; ?>
                         </ul>
-                        <?php wp_reset_postdata(); // IMPORTANT - reset the $post object so the rest of the page works correctly ?>
+                        <?php wp_reset_postdata();?>
                     <?php endif; ?>
 
-
-
-<!--                    <img src="img/blog/18th_March.jpg" alt="18th of March" class="blog__date">-->
-<!--                    <div class="item d-flex flex-column ">-->
-<!--                        <img src="img/blog/phone.jpg" alt="smartphone" class="phone">-->
-<!--                        <div class="blog__text-wrap">-->
-<!--                            <p class="blog__title">Restaurant business trends</p>-->
-<!--                            <p class="blog__text">With the growth-focused restaurateur at the heart of all their posts, Restaurant Business Online focuses on providing restaurateurs with benchmarks, updates on legislative matters, and economic news.</p>-->
-<!--                            <p class="blog__stat">-->
-<!--                                <i class="fa fa-user"></i>-->
-<!--                                Luis Traver-->
-<!--                                <i class="fa fa-eye seen"></i>-->
-<!--                                240-->
-<!--                                <i class="fa fa-comments"></i>-->
-<!--                                5-->
-<!--                            </p>-->
-<!--                        </div>-->
-<!--                    </div>-->
                 </div>
-<!---->
+
                 <div class="item blog__second">
 
                     <?php
@@ -933,36 +934,40 @@
 
                     if( $posts ): ?>
                         <ul>
-                            <?php foreach( $posts as $post):  ?>
+                            <?php foreach( $posts as $post): ?>
                                 <?php setup_postdata($post); ?>
+
                                 <li>
-                                    <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
-                                    <span>Custom field from $post: <?php the_field('author'); ?></span>
+                                    <div class="item d-flex flex-column ">
+                                        <a href="<?php the_permalink(); ?>"><img src="<?php the_field('rest'); ?>" alt="" class="rest"></a>
+                                        <div class="blog__text-wrap">
+                                            <a href="<?php the_permalink(); ?>"><p class="blog__title"><span class="title2"><?php the_field('title2'); ?></span></p></a>
+                                            <p class="blog__text">
+                                                <span class="text2"><?php the_field('text2'); ?></span>
+                                            </p>
+                                            <p class="blog__stat">
+                                                <i class="fa fa-user"></i>
+                                                <a href="<?php the_permalink(); ?>">
+                                                    <?php echo get_the_author(); ?></a>
+                                                <i class="fa fa-eye seen"></i>
+                                                <?php echo get_post_meta ($post->ID,'views',true); ?>
+                                                <i class="fa fa-comments"></i>
+                                                <?php comments_number(); ?>
+                                            </p>
+                                        </div>
+                                    </div>
                                 </li>
+
                             <?php endforeach; ?>
+
                         </ul>
-                        <?php wp_reset_postdata(); ?>
+
+                        <?php wp_reset_postdata();?>
                     <?php endif; ?>
 
-
-<!--                    <img src="img/blog/22th_March.jpg" alt="22th of March" class="blog__date">-->
-<!--                    <div class="item d-flex flex-column ">-->
-<!--                        <img src="img/blog/table.jpg" alt="restaurante" class="rest">-->
-<!--                        <div class="blog__text-wrap">-->
-<!--                            <p class="blog__title blog__title-second">Hottest New York food news</p>-->
-<!--                            <p class="blog__text"> As far as North America restaurant trends go, New York sets the precedent. That’s why it’s essential restaurant owners keep a close eye on the goings-on of the food metropolis that sets the benchmark.</p>-->
-<!--                            <p class="blog__stat">-->
-<!--                                <i class="fa fa-user"></i>-->
-<!--                                Andrea Fas-->
-<!--                                <i class="fa fa-eye seen"></i>-->
-<!--                                123-->
-<!--                                <i class="fa fa-comments"></i>-->
-<!--                                10-->
-<!--                            </p>-->
-<!--                        </div>-->
-<!--                    </div>-->
                 </div>
-<!---->
+
+
                 <div class="item blog__third">
 
                     <?php
@@ -971,56 +976,37 @@
 
                     if( $posts ): ?>
                         <ul>
-                            <?php foreach( $posts as $post):  ?>
+                            <?php foreach( $posts as $post): ?>
                                 <?php setup_postdata($post); ?>
+
                                 <li>
-                                    <a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
-                                    <span>Custom field from $post: <?php the_field('author'); ?></span>
+                                    <div class="item d-flex flex-column ">
+                                        <a href="<?php the_permalink(); ?>"><img src="<?php the_field('woman'); ?>" alt="" class="woman"></a>
+                                        <div class="blog__text-wrap">
+                                            <a href="<?php the_permalink(); ?>"><p class="blog__title"><span class="title3"><?php the_field('title3'); ?></span></p></a>
+                                            <p class="blog__text">
+                                                <span class="text3"><?php the_field('text3'); ?></span>
+                                            </p>
+                                            <p class="blog__stat">
+                                                <i class="fa fa-user"></i>
+                                                <a href="<?php the_permalink(); ?>">
+                                                    <?php echo get_the_author(); ?></a>
+                                                <i class="fa fa-eye seen"></i>
+                                                <?php echo get_post_meta ($post->ID,'views',true); ?>
+                                                <i class="fa fa-comments"></i>
+                                                <?php comments_number(); ?>
+                                            </p>
+                                        </div>
+                                    </div>
                                 </li>
+
                             <?php endforeach; ?>
+
                         </ul>
-                        <?php wp_reset_postdata(); ?>
+
+                        <?php wp_reset_postdata();?>
                     <?php endif; ?>
-
-
-<!--                    <img src="img/blog/23.jpg" alt="23th of March" class="blog__date">-->
-<!--                    <div class="item d-flex flex-column ">-->
-<!--                        <img src="img/blog/woman.jpg" alt="woman" class="woman">-->
-<!--                        <div class="blog__text-wrap">-->
-<!--                            <p class="blog__title">Negotiating a Restaurant Lease</p>-->
-<!--                            <p class="blog__text third">Leasing property is a significant way to save money when you’re getting your restaurant off the ground. From property taxes to mortgage payments, the fees associated with buying a space .</p>-->
-<!--                            <p class="blog__stat">-->
-<!--                                <i class="fa fa-user"></i>-->
-<!--                                Frederic Hum-->
-<!--                                <i class="fa fa-eye seen"></i>-->
-<!--                                453-->
-<!--                                <i class="fa fa-comments"></i>-->
-<!--                                56-->
-<!--                            </p>-->
-<!--                        </div>-->
-<!--                    </div>-->
                 </div>
-<!---->
-<!--                <div class="item blog__first">-->
-<!--                    <img src="img/blog/18th_March.jpg" alt="18th of March" class="blog__date">-->
-<!--                    <div class="item d-flex flex-column ">-->
-<!--                        <img src="img/blog/phone.jpg" alt="smartphone" class="phone img-fluid">-->
-<!--                        <div class="blog__text-wrap">-->
-<!--                            <p class="blog__title">Restaurant business trends</p>-->
-<!--                            <p class="blog__text">With the growth-focused restaurateur at the heart of all their posts, Restaurant Business Online focuses on providing restaurateurs with benchmarks, updates on legislative matters, and economic news.</p>-->
-<!--                            <p class="blog__stat">-->
-<!--                                <i class="fa fa-user"></i>-->
-<!--                                Luis Traver-->
-<!--                                <i class="fa fa-eye seen"></i>-->
-<!--                                240-->
-<!--                                <i class="fa fa-comments"></i>-->
-<!--                                5-->
-<!--                            </p>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
-
-
 
             </div>
         </div>
